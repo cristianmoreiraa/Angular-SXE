@@ -1,4 +1,4 @@
 # Video Angular Working
 
 
-[!gif](./Angular.gif)
+[!gif](https://github.com/cristianmoreiraa/Angular-SXE/blob/main/Angular.gif)
