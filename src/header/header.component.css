@@ -1,0 +1,21 @@
+/* header.component.css */
+
+.titulo {
+  font-size: 60px; /* Tamaño de fuente aún más grande */
+  font-family: 'Impact', sans-serif; /* Fuente más audaz */
+  color: #4CAF50;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8); /* Sombra más pronunciada */
+  margin-top: 50px;
+  text-align: center; /* Alineación horizontal al centro */
+  padding: 20px 30px; /* Espaciado interno aumentado */
+  border: 3px solid #4CAF50; /* Borde más grueso */
+  border-radius: 50px; /* Bordes redondeados más grandes */
+  background-color: #f9f9f9; /* Fondo ligeramente más claro para contraste */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); /* Sombra más pronunciada */
+  transition: all 0.4s ease; /* Transición suave más lenta */
+}
+
+.titulo:hover {
+  transform: scale(1.05) rotate(-3deg); /* Efecto de escala y rotación al pasar el ratón */
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.6); /* Sombra aún más pronunciada al pasar el ratón */
+}
